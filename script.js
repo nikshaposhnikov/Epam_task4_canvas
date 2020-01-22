@@ -107,7 +107,7 @@ function drawFrame() {
             figure.dy = -figure.dy;
         }
 
-//неудачная попытка сделать отскок шариков при пересечении
+//неудачная попытка сделать отскок шариков при пересечении :(
         /*  for (let a = 0; a < figures.length; a++) {
              if (figure === figures[a]) continue;
               else {
